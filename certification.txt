@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the convo offline sharver 4.1
+---------------------------------------------------
+
+app_name - 						convo offline sharver
+app_alias - 					convoofflinesharver
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Odisha
+app_author_country - 			India
+app_password - 					gnZ4XWG3MVho
+app_versionName - 				versionName "4.1"
+app_versionCode - 				401
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Saturday 18th of July 2026 06:20:16 AM
+
+https://webintoapp.com
+---------------------------------------------------
+
